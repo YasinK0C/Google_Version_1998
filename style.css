@@ -1,0 +1,32 @@
+.first {
+    background-color: rgb(211, 226, 226);
+  }
+  .left {
+    background-color: rgb(0, 202, 158);
+    width: 475px;
+    height: 100px;
+    float: left;
+    margin: 3px;
+  }
+  .center {
+    background-color: rgb(0, 202, 158);
+    width: 300px;
+    height: 100px;
+    float: left;
+    margin: 3px;
+  }
+  .right {
+    background-color: rgb(0, 202, 158);
+    width: 475px;
+    height: 100px;
+    float: left;
+    margin: 3px;
+  }
+  .nm {
+    margin-left: 210px;
+  }
+  footer {
+    margin-top: 200px;
+    margin-left: 600px;
+  }
+  

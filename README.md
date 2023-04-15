@@ -3,9 +3,6 @@ Home Work CSS patika.dev
 
 As my homework in css classes, I made the first version of google in 1998 in this study.
 
-Click to visit profile Patika
-
-https://app.patika.dev/ysnkoc
 
 Click to visit profile GitHub
 
